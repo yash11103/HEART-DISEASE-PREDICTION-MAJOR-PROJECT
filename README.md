@@ -1,8 +1,10 @@
 # HEART-DISEASE-PREDICTION-MAJOR-PROJECT
 
 Colab:   https://colab.research.google.com/drive/1aTEckmGbzUjd3jQd2yLiA9MajrjmWUud?usp=sharing
+
 Github:
 https://github.com/yash11103/HEART-DISEASE-PREDICTION-MAJOR-PROJECT
+
 Gradio:
 https://16280d13e604f00f65.gradio.live
 
